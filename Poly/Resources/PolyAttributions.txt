@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: crystals 1
+Author: Brandon
+URL: https://poly.google.com/view/aXkkYvUglXk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Diamond
+Author: albus KUDO
+URL: https://poly.google.com/view/cZVVcA-K_yT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: iFruit Vintage Computer
+Author: TRASH - TANUKI
+URL: https://poly.google.com/view/8r9bnI1sXt9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Microscope
+Author: Colonel Cthulu
+URL: https://poly.google.com/view/05VXLT8kN4k
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

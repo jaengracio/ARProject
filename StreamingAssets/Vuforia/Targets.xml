@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cog_target" size="0.500000 0.500000" />
+    <ImageTarget name="computer_target" size="0.500000 0.263158" />
+    <ImageTarget name="crystals_target" size="0.500000 0.500000" />
+    <ImageTarget name="microscope_target" size="0.500000 0.499914" />
+    <ImageTarget name="WIM_Target1" size="0.500000 0.284184" />
+    <ImageTarget name="WIM_Target2" size="0.500000 0.261250" />
+  </Tracking>
+</QCARConfig>
