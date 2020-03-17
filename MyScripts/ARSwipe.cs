@@ -39,7 +39,7 @@ public class ARSwipe : MonoBehaviour {
 
             // swipe up
             if (percentage < 0) {
-              newLocation = new Vector2(panelLocation.x, Screen.height/2);
+              newLocation = new Vector2(panelLocation.x, Screen.height/4);
             }
 
             //swipe down
