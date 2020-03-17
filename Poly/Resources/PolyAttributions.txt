@@ -1,14 +1,20 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: cone
+Author: julien vantard
+URL: https://poly.google.com/view/9hD5JL3PTrO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: crystals 1
 Author: Brandon
 URL: https://poly.google.com/view/aXkkYvUglXk
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
-Title: Diamond
-Author: albus KUDO
-URL: https://poly.google.com/view/cZVVcA-K_yT
+Title: Hammer
+Author: Poly by Google
+URL: https://poly.google.com/view/cOizz1RJnb3
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
